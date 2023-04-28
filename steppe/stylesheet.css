@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-Black.eot');
+    src: local('Steppe Black'), local('Steppe-Black'),
+        url('../steppe/Steppe-Black.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-Black.woff2') format('woff2'),
+        url('../steppe/Steppe-Black.woff') format('woff'),
+        url('../steppe/Steppe-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-Book.eot');
+    src: local('Steppe Book'), local('Steppe-Book'),
+        url('../steppe/Steppe-Book.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-Book.woff2') format('woff2'),
+        url('../steppe/Steppe-Book.woff') format('woff'),
+        url('../steppe/Steppe-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-Bold.eot');
+    src: local('Steppe Bold'), local('Steppe-Bold'),
+        url('../steppe/Steppe-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-Bold.woff2') format('woff2'),
+        url('../steppe/Steppe-Bold.woff') format('woff'),
+        url('../steppe/Steppe-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-ExtraBold.eot');
+    src: local('Steppe Extra Bold'), local('Steppe-ExtraBold'),
+        url('../steppe/Steppe-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-ExtraBold.woff2') format('woff2'),
+        url('../steppe/Steppe-ExtraBold.woff') format('woff'),
+        url('../steppe/Steppe-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-SemiBold.eot');
+    src: local('Steppe Semi Bold'), local('Steppe-SemiBold'),
+        url('../steppe/Steppe-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-SemiBold.woff2') format('woff2'),
+        url('../steppe/Steppe-SemiBold.woff') format('woff'),
+        url('../steppe/Steppe-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-Medium.eot');
+    src: local('Steppe Medium'), local('Steppe-Medium'),
+        url('../steppe/Steppe-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-Medium.woff2') format('woff2'),
+        url('../steppe/Steppe-Medium.woff') format('woff'),
+        url('../steppe/Steppe-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-Thin.eot');
+    src: local('Steppe Thin'), local('Steppe-Thin'),
+        url('../steppe/Steppe-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-Thin.woff2') format('woff2'),
+        url('../steppe/Steppe-Thin.woff') format('woff'),
+        url('../steppe/Steppe-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-Regular.eot');
+    src: local('Steppe Regular'), local('Steppe-Regular'),
+        url('../steppe/Steppe-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-Regular.woff2') format('woff2'),
+        url('../steppe/Steppe-Regular.woff') format('woff'),
+        url('../steppe/Steppe-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Steppe';
+    src: url('../steppe/Steppe-Light.eot');
+    src: local('Steppe Light'), local('Steppe-Light'),
+        url('../steppe/Steppe-Light.eot?#iefix') format('embedded-opentype'),
+        url('../steppe/Steppe-Light.woff2') format('woff2'),
+        url('../steppe/Steppe-Light.woff') format('woff'),
+        url('../steppe/Steppe-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
